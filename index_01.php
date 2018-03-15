@@ -16,7 +16,7 @@
     $school="ZŠ T.G.M. Poděbrady";
     ?>
 
-
+ 
     <p>Ahoj. Já jsem <?php echo "$firstname";?></p>
     <p>Mám příjmení <?php echo "$lastname";  ?></p>
     <p>Je mi <?php echo "$age let"; ?></p>
